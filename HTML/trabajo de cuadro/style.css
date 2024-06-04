@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.padding{
+    background-color: #469fc7;
+    padding: 45px;
+    border: 45px solid #e5a685;
+    margin: 45px;
+}
+
+.content{
+    height: 100px;
+    width: 300px;
+    background-color: #a0cae0;
+}
+
+.margin{
+    background-color: #d15c19;
+}
